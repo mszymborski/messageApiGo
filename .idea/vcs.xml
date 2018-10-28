@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gocql/gocql" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/golang/snappy" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/google/go-cmp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/gorilla/mux" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/hailocab/go-hostpool" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/github.com/scylladb/gocqlx" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/src/gopkg.in/inf.v0" vcs="Git" />
+  </component>
+</project>
